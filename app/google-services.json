@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "802482641287",
+    "project_id": "workshops-12271",
+    "storage_bucket": "workshops-12271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802482641287:android:392ca3af413d2acdc2db22",
+        "android_client_info": {
+          "package_name": "com.example.workshops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802482641287-6n86cjddvv00lu704klaha14ccea2nq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workshops",
+            "certificate_hash": "8d35f376c9532dedf53e0e4e7abe73840a26eb1c"
+          }
+        },
+        {
+          "client_id": "802482641287-6e2v3k8er1ahfgnpbkjemruq74vkaitu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwUDv_5J2UhLluhHdlDVqVPVj43XT-7k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802482641287-6e2v3k8er1ahfgnpbkjemruq74vkaitu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
